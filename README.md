@@ -1,5 +1,4 @@
-﻿# Atividade-4---Projeto-Individual-com-Git
-# Atividade-4---Projeto-Individual-com-Git
+
 # Atividade-4---Projeto-Individual-com-Git
 # Site da Empresa Financeira V7
 
